@@ -1,0 +1,27 @@
+{
+  "name": "global-esports-stats",
+  "version": "1.0.0",
+  "description": "Website for gamers to look up stats from the games that they play.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nazaboy19/Global-E-Sports-Statsj.git"
+  },
+  "author": "Ibrahim Mercado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nazaboy19/Global-E-Sports-Statsj/issues"
+  },
+  "homepage": "https://github.com/Nazaboy19/Global-E-Sports-Statsj#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express-session": "^1.14.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "passport-twitter": "^1.0.2",
+    
+  }
+}
